@@ -8,10 +8,12 @@ Pictoria is a **MERN stack** application that allows users to upload, tag, and s
 
 ## 📸 Screenshots  
 ### **Homepage with an Uploaded Post**  
-![Screenshot](./Screenshot%202025-01-30%20024322.png)  
+![Screenshot 2025-01-30 024536](https://github.com/user-attachments/assets/57e8f97f-6c4c-4dbd-b7d0-78518cce7e9d)
+
 
 ### **Empty State (No Posts Yet)**  
-![Screenshot](./Screenshot%202025-01-30%20024536.png)  
+![Screenshot 2025-01-30 024322](https://github.com/user-attachments/assets/697f8a14-6c5f-4a30-8443-cd08b62cf302)
+
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js 
