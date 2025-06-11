@@ -39,8 +39,3 @@ Pictoria is a **MERN stack** application that allows users to upload, tag, and s
    npm start 
    ```  
 4. Open **http://localhost:3000** in your browser.  
-
-## 🎯 Future Improvements  
-- [ ] Implement user authentication  
-- [ ] Add a comment system  
-- [ ] Improve UI/UX with animations  
